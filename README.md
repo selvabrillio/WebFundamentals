@@ -17,6 +17,45 @@ The project was soft launched in late April with a formal v1 launch in June 2014
 
 Technology
 ----------
+Web Fundamentals
+================
+
+Web Fundamentals is a technical documentation center for multi-device web 
+development.  Our goal is to build a resource for modern web developers 
+that’s as curated and thorough as developer.android.com or iOS Dev Center.
+
+Content plan
+------------
+Content plan for Web Fundamentals is tracked through GitHub Issues and our [Site Structure + Content Inventory](http://goo.gl/nWDD0M) doc
+
+
+Release status
+--------------
+
+The project was soft launched in late April with a formal v1 launch in June 2014.  We've now moved to a six-week rolling release cycle.
+
+Technology
+----------
+
+Web Fundamentals
+================
+
+Web Fundamentals is a technical documentation center for multi-device web 
+development.  Our goal is to build a resource for modern web developers 
+that’s as curated and thorough as developer.android.com or iOS Dev Center.
+
+Content plan
+------------
+Content plan for Web Fundamentals is tracked through GitHub Issues and our [Site Structure + Content Inventory](http://goo.gl/nWDD0M) doc
+
+
+Release status
+--------------
+
+The project was soft launched in late April with a formal v1 launch in June 2014.  We've now moved to a six-week rolling release cycle.
+
+Technology
+----------
 
 This is a Jekyll build.
 
